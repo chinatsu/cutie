@@ -12,8 +12,9 @@ totally not a project yet
   - shows info about currently playing song
   - also serves as a menu when selecting something to play, etc.
 - hardware buttons
-  - needs "unlock" pattern to avoid accidental pushing while in the pocket
+  - slide switch to lock/unlock buttons (think ipod)
   - next/prev buttons
+  - need at least two more buttons for enter/back i think
   - vol up/down? or maybe keep that hardware based?
 - M.2 drive for storing media
 - additional eMMC (or similar) storage (unknown how big this needs to be)
