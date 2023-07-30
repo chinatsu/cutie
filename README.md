@@ -1,15 +1,20 @@
 # cutie
 
+intrusive thought: make a portable audio player (specific to my own desires)
+
 totally not a project yet
 
 ## ideas
 
 - sheet metal case
   - maybe 3d-printed or CNC'd out of some other material to improve resistance to moisture etc?
-- e-ink screen
+- e-ink display
   - shows info about currently playing song
+  - also serves as a menu when selecting something to play, etc.
 - hardware buttons
   - needs "unlock" pattern to avoid accidental pushing while in the pocket
+  - next/prev buttons
+  - vol up/down? or maybe keep that hardware based?
 - M.2 drive for storing media
 - additional eMMC (or similar) storage (unknown how big this needs to be)
   - records playback history
@@ -21,4 +26,5 @@ totally not a project yet
 - "good" amplifier (i want it to at least comfortably drive my DT 770 Pro, 80 ohm headphones)
 - 1/4" TRS output
 - FLAC support only
+- focus on playing back albums, folder structure will likely be significant
 - [Daisy](https://www.electro-smith.com/daisy/daisy) might be a viable platform to build off of, although i'm unsure if FLAC playback can be achieved :eyes:
