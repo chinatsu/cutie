@@ -16,7 +16,9 @@ totally not a project yet
   - next/prev buttons
   - need at least two more buttons for enter/back i think
   - vol up/down? or maybe keep that hardware based?
-- M.2 drive for storing media
+- micro SD card slot (maybe 2x) for media storage
+  - should be plenty fast for reading FLAC files, fairly cheap and available hardware
+  - SD card reading stack is probably a lot easier than my previous idea of M.2 storage
 - additional eMMC (or similar) storage (unknown how big this needs to be)
   - records playback history
     - when connected to a computer a command line interface can export this and register to last.fm/libre.fm/etc.
