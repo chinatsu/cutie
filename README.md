@@ -28,3 +28,5 @@ totally not a project yet
 - FLAC support only
 - focus on playing back albums, folder structure will likely be significant
 - [Daisy](https://www.electro-smith.com/daisy/daisy) might be a viable platform to build off of, although i'm unsure if FLAC playback can be achieved :eyes:
+  - DAC should be plenty sufficient for most use cases (16/24 bit, up to 96kHz)
+  - the Daisy Pod seems to drive my headphones (when powered by usb :shrug:)
