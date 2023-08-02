@@ -4,6 +4,25 @@ intrusive thought: make a portable audio player (specific to my own desires)
 
 totally not a project yet
 
+## daisy
+
+i'm trying to use libDaisy and libFLAC++!
+i just don't know how to integrate the latter
+
+### setup
+
+```sh
+git submodule update --init
+cd libDaisy
+make
+
+# no idea what to do with `flac` yet
+# ... insert instructions for libFLAC++
+
+cd src
+make
+```
+
 ## ideas
 
 - sheet metal case
