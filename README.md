@@ -11,6 +11,8 @@ i just don't know how to integrate the latter
 
 ### setup
 
+install the Daisy toolchain: https://github.com/electro-smith/DaisyWiki/wiki/1.-Setting-Up-Your-Development-Environment#1-install-the-toolchain
+
 ```sh
 git submodule update --init
 cd libDaisy
